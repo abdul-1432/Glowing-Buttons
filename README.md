@@ -15,7 +15,7 @@ Welcome to Glowing Buttons, a lightweight and customizable CSS library for addin
 1. Download the latest release or include the CDN link in your HTML file:
 
 ```HTML
-<link rel="stylesheet" href="path/to/glowing-buttons.css">
+<link rel="stylesheet" href="https://github.com/abdul-1432/Glowing-Buttons/blob/main/Glowing%20Buttons/style.css">
 ```
 
 2. Add the `glow-btn` class to your button elements:
