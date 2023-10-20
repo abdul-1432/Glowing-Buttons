@@ -14,19 +14,19 @@ Welcome to Glowing Buttons, a lightweight and customizable CSS library for addin
 
 1. Download the latest release or include the CDN link in your HTML file:
 
-```html
+```HTML
 <link rel="stylesheet" href="path/to/glowing-buttons.css">
 ```
 
 2. Add the `glow-btn` class to your button elements:
 
-```html
+```HTML
 <button class="glow-btn">Click me</button>
 ```
 
 3. Customize the glow effect by adding additional classes:
 
-```html
+```HTML
 <button class="glow-btn glow-blue">Click me</button>
 ```
 
@@ -40,9 +40,6 @@ You can further customize the glow effect using the following classes:
 - `glow-yellow`: Yellow glow effect
 - `glow-custom`: Custom color glow effect (add your custom color class)
 
-## Examples
-
-Check out the [demo page](demo/index.html) for examples and inspiration.
 
 ## Contributing
 
